@@ -17,7 +17,7 @@ public class Student extends Man{
 
          @Override
          public void study(){
-         	System.out.println(" not hardcore academic stuying ");
+         	System.out.println(" not hardcore academic studying ");
          } 
        
         public static void main(String[] args) {
